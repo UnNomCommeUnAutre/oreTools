@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oretools",
+  "name": "Ore Tools",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Loyto"],
+  "credits": "Equipe SKHR",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
